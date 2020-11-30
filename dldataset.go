@@ -5,7 +5,7 @@ import (
 
 	context "context"
 
-	"github.com/rai-project/dlframework"
+	"github.com/c3sr/dlframework"
 )
 
 // LabeledData ...

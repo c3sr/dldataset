@@ -1,9 +1,9 @@
 package vision
 
 import (
-	"github.com/rai-project/dlframework"
-	"github.com/rai-project/dlframework/framework/feature"
-	"github.com/rai-project/image/types"
+	"github.com/c3sr/dlframework"
+	"github.com/c3sr/dlframework/framework/feature"
+	"github.com/c3sr/image/types"
 )
 
 // ILSVRC2012ValidationLabeledImage ...

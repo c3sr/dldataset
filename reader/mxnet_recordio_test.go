@@ -13,9 +13,9 @@ import (
 	goimage "image"
 	"image/png"
 
-	"github.com/rai-project/image"
-	"github.com/rai-project/image/types"
-	_ "github.com/rai-project/tracer/noop"
+	"github.com/c3sr/image"
+	"github.com/c3sr/image/types"
+	_ "github.com/c3sr/tracer/noop"
 	"github.com/stretchr/testify/assert"
 )
 

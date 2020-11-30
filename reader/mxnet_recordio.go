@@ -10,8 +10,8 @@ import (
 	context "context"
 
 	"github.com/pkg/errors"
-	"github.com/rai-project/image"
-	"github.com/rai-project/image/types"
+	"github.com/c3sr/image"
+	"github.com/c3sr/image/types"
 )
 
 const (

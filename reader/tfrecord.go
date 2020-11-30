@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	"github.com/rai-project/image"
-	"github.com/rai-project/image/types"
+	"github.com/c3sr/image"
+	"github.com/c3sr/image/types"
 	"github.com/ubccr/terf"
 	protobuf "github.com/ubccr/terf/protobuf"
 )

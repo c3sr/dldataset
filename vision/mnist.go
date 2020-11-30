@@ -9,11 +9,11 @@ import (
 	context "context"
 
 	"github.com/pkg/errors"
-	"github.com/rai-project/config"
-	"github.com/rai-project/dldataset"
-	"github.com/rai-project/dlframework"
-	"github.com/rai-project/dlframework/framework/feature"
-	"github.com/rai-project/image/types"
+	"github.com/c3sr/config"
+	"github.com/c3sr/dldataset"
+	"github.com/c3sr/dlframework"
+	"github.com/c3sr/dlframework/framework/feature"
+	"github.com/c3sr/image/types"
 	mnistLoader "github.com/unixpickle/mnist"
 )
 

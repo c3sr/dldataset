@@ -5,7 +5,7 @@ import (
 
 	context "context"
 
-	"github.com/rai-project/dldataset"
+	"github.com/c3sr/dldataset"
 	"github.com/stretchr/testify/assert"
 )
 

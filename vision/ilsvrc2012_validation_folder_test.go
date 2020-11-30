@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	context "context"
-	"github.com/rai-project/dldataset"
-	"github.com/rai-project/image/types"
+	"github.com/c3sr/dldataset"
+	"github.com/c3sr/image/types"
 	"github.com/stretchr/testify/assert"
 )
 

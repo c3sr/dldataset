@@ -1,5 +1,4 @@
-# DLDataset [![Build Status](https://travis-ci.org/rai-project/dldataset.svg?branch=master)](https://travis-ci.org/rai-project/dldataset)
-
+# DLDataset [![Build Status](https://travis-ci.org/c3sr/dldataset.svg?branch=master)](https://travis-ci.org/c3sr/dldataset)
 
 ## Download the ImageNet dataset
 The ImageNet Large Scale Visual Recognition Challenge (ILSVRC) dataset has 1000 categories and 1.2 million images. The images do not need to be preprocessed or packaged in any database, but the validation images need to be moved into appropriate subfolders.

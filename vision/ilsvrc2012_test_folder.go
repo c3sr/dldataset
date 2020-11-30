@@ -10,11 +10,11 @@ package vision
 // 	context "context"
 
 // 	"github.com/pkg/errors"
-// 	"github.com/rai-project/config"
-// 	"github.com/rai-project/dldataset"
-// 	"github.com/rai-project/downloadmanager"
-// 	"github.com/rai-project/image"
-// 	"github.com/rai-project/image/types"
+// 	"github.com/c3sr/config"
+// 	"github.com/c3sr/dldataset"
+// 	"github.com/c3sr/downloadmanager"
+// 	"github.com/c3sr/image"
+// 	"github.com/c3sr/image/types"
 // )
 
 // var iLSVRC2012TestFolder *ILSVRC2012TestFolder

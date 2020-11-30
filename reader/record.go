@@ -1,6 +1,6 @@
 package reader
 
-import "github.com/rai-project/image/types"
+import "github.com/c3sr/image/types"
 
 // ImageRecord ...
 type ImageRecord struct {

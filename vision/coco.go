@@ -7,18 +7,18 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/rai-project/dldataset/vision/support/object_detection"
+	"github.com/c3sr/dldataset/vision/support/object_detection"
 
 	"github.com/Unknwon/com"
 	"github.com/pkg/errors"
-	"github.com/rai-project/config"
-	"github.com/rai-project/dldataset"
-	"github.com/rai-project/dldataset/reader"
-	"github.com/rai-project/dldataset/reader/tfrecord"
-	"github.com/rai-project/dlframework"
-	"github.com/rai-project/dlframework/framework/feature"
-	"github.com/rai-project/downloadmanager"
-	"github.com/rai-project/image/types"
+	"github.com/c3sr/config"
+	"github.com/c3sr/dldataset"
+	"github.com/c3sr/dldataset/reader"
+	"github.com/c3sr/dldataset/reader/tfrecord"
+	"github.com/c3sr/dlframework"
+	"github.com/c3sr/dlframework/framework/feature"
+	"github.com/c3sr/downloadmanager"
+	"github.com/c3sr/image/types"
 	protobuf "github.com/ubccr/terf/protobuf"
 )
 

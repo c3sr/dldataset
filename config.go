@@ -2,8 +2,8 @@ package dldataset
 
 import (
 	"github.com/k0kubun/pp"
-	"github.com/rai-project/config"
-	"github.com/rai-project/vipertags"
+	"github.com/c3sr/config"
+	"github.com/c3sr/vipertags"
 )
 
 type dldatasetConfig struct {
@@ -13,7 +13,7 @@ type dldatasetConfig struct {
 
 // Config ...
 var (
-	// Config holds the data read by rai-project/config
+	// Config holds the data read by c3sr/config
 	Config = &dldatasetConfig{
 		done: make(chan struct{}),
 	}

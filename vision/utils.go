@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	"github.com/rai-project/image"
-	"github.com/rai-project/image/types"
+	"github.com/c3sr/image"
+	"github.com/c3sr/image/types"
 )
 
 func urlJoin(base string, n string) string {
