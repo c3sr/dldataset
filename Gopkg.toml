@@ -39,10 +39,6 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/c3sr/dlframework"
-
-[[constraint]]
-  branch = "master"
   name = "github.com/c3sr/downloadmanager"
 
 [[constraint]]
